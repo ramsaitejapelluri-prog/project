@@ -1,0 +1,1 @@
+SQL JOIN and pandas merge outputs match exactly.

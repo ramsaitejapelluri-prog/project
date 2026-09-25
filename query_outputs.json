@@ -1,0 +1,576 @@
+{
+  "in_stock_high_rating": [
+    {
+      "title": "Full Moon over Noah\u00e2\u0080\u0099s Ark: An Odyssey to Mount Ararat and Beyond",
+      "rating": 4
+    },
+    {
+      "title": "A Year in Provence (Provence #1)",
+      "rating": 4
+    },
+    {
+      "title": "1,000 Places to See Before You Die",
+      "rating": 5
+    },
+    {
+      "title": "Sharp Objects",
+      "rating": 4
+    },
+    {
+      "title": "The Past Never Ends",
+      "rating": 4
+    },
+    {
+      "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)",
+      "rating": 4
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)",
+      "rating": 5
+    },
+    {
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "rating": 4
+    },
+    {
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+      "rating": 5
+    },
+    {
+      "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)",
+      "rating": 5
+    },
+    {
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+      "rating": 4
+    },
+    {
+      "title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+      "rating": 4
+    },
+    {
+      "title": "The Silkworm (Cormoran Strike #2)",
+      "rating": 5
+    },
+    {
+      "title": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+      "rating": 4
+    },
+    {
+      "title": "The Girl You Lost",
+      "rating": 5
+    },
+    {
+      "title": "A Flight of Arrows (The Pathfinders #2)",
+      "rating": 5
+    },
+    {
+      "title": "Mrs. Houdini",
+      "rating": 5
+    },
+    {
+      "title": "The Marriage of Opposites",
+      "rating": 4
+    },
+    {
+      "title": "A Paris Apartment",
+      "rating": 4
+    },
+    {
+      "title": "World Without End (The Pillars of the Earth #2)",
+      "rating": 4
+    },
+    {
+      "title": "The Passion of Dolssa",
+      "rating": 5
+    },
+    {
+      "title": "Voyager (Outlander #3)",
+      "rating": 5
+    },
+    {
+      "title": "The Red Tent",
+      "rating": 5
+    },
+    {
+      "title": "Between Shades of Gray",
+      "rating": 5
+    },
+    {
+      "title": "While You Were Mine",
+      "rating": 5
+    },
+    {
+      "title": "Lost Among the Living",
+      "rating": 4
+    },
+    {
+      "title": "A Spy's Devotion (The Regency Spies of London #1)",
+      "rating": 5
+    }
+  ],
+  "most_expensive": [
+    {
+      "title": "Boar Island (Anna Pigeon #19)",
+      "price_gbp": 59.48
+    },
+    {
+      "title": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)",
+      "price_gbp": 57.7
+    },
+    {
+      "title": "A Year in Provence (Provence #1)",
+      "price_gbp": 56.88
+    },
+    {
+      "title": "The Past Never Ends",
+      "price_gbp": 56.5
+    },
+    {
+      "title": "The Last Painting of Sara de Vos",
+      "price_gbp": 55.55
+    },
+    {
+      "title": "A Flight of Arrows (The Pathfinders #2)",
+      "price_gbp": 55.53
+    },
+    {
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)",
+      "price_gbp": 54.36
+    },
+    {
+      "title": "The Last Mile (Amos Decker #2)",
+      "price_gbp": 54.21
+    },
+    {
+      "title": "1st to Die (Women's Murder Club #1)",
+      "price_gbp": 53.98
+    },
+    {
+      "title": "Tipping the Velvet",
+      "price_gbp": 53.74
+    }
+  ],
+  "distinct_ratings": [
+    {
+      "rating": 1
+    },
+    {
+      "rating": 2
+    },
+    {
+      "rating": 3
+    },
+    {
+      "rating": 4
+    },
+    {
+      "rating": 5
+    }
+  ],
+  "mid_price_books": [
+    {
+      "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+      "price_gbp": 36.94
+    },
+    {
+      "title": "Under the Tuscan Sun",
+      "price_gbp": 37.33
+    },
+    {
+      "title": "The Great Railway Bazaar",
+      "price_gbp": 30.54
+    },
+    {
+      "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)",
+      "price_gbp": 23.21
+    },
+    {
+      "title": "Neither Here nor There: Travels in Europe",
+      "price_gbp": 38.95
+    },
+    {
+      "title": "1,000 Places to See Before You Die",
+      "price_gbp": 26.08
+    },
+    {
+      "title": "Poisonous (Max Revere Novels #3)",
+      "price_gbp": 26.8
+    },
+    {
+      "title": "Most Wanted",
+      "price_gbp": 35.28
+    },
+    {
+      "title": "The Widow",
+      "price_gbp": 27.26
+    },
+    {
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)",
+      "price_gbp": 25.37
+    },
+    {
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)",
+      "price_gbp": 20.89
+    },
+    {
+      "title": "The Mysterious Affair at Styles (Hercule Poirot #1)",
+      "price_gbp": 24.8
+    },
+    {
+      "title": "In the Woods (Dublin Murder Squad #1)",
+      "price_gbp": 38.38
+    },
+    {
+      "title": "The Silkworm (Cormoran Strike #2)",
+      "price_gbp": 23.05
+    },
+    {
+      "title": "Extreme Prey (Lucas Davenport #26)",
+      "price_gbp": 25.4
+    },
+    {
+      "title": "Career of Evil (Cormoran Strike #3)",
+      "price_gbp": 24.72
+    },
+    {
+      "title": "Blood Defense (Samantha Brinkman #1)",
+      "price_gbp": 20.3
+    },
+    {
+      "title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton",
+      "price_gbp": 29.69
+    },
+    {
+      "title": "The House by the Lake",
+      "price_gbp": 36.95
+    },
+    {
+      "title": "Mrs. Houdini",
+      "price_gbp": 30.25
+    },
+    {
+      "title": "The Marriage of Opposites",
+      "price_gbp": 28.08
+    },
+    {
+      "title": "Love, Lies and Spies",
+      "price_gbp": 20.55
+    },
+    {
+      "title": "A Paris Apartment",
+      "price_gbp": 39.01
+    },
+    {
+      "title": "The Invention of Wings",
+      "price_gbp": 37.34
+    },
+    {
+      "title": "World Without End (The Pillars of the Earth #2)",
+      "price_gbp": 32.97
+    },
+    {
+      "title": "The Passion of Dolssa",
+      "price_gbp": 28.32
+    },
+    {
+      "title": "Girl With a Pearl Earring",
+      "price_gbp": 26.77
+    },
+    {
+      "title": "Voyager (Outlander #3)",
+      "price_gbp": 21.07
+    },
+    {
+      "title": "The Red Tent",
+      "price_gbp": 35.66
+    },
+    {
+      "title": "Between Shades of Gray",
+      "price_gbp": 20.79
+    },
+    {
+      "title": "The Secret Healer",
+      "price_gbp": 34.56
+    },
+    {
+      "title": "Starlark",
+      "price_gbp": 25.83
+    },
+    {
+      "title": "Lost Among the Living",
+      "price_gbp": 27.7
+    }
+  ],
+  "selected_categories": [
+    {
+      "title": "It's Only the Himalayas"
+    },
+    {
+      "title": "Full Moon over Noah\u00e2\u0080\u0099s Ark: An Odyssey to Mount Ararat and Beyond"
+    },
+    {
+      "title": "See America: A Celebration of Our National Parks & Treasured Sites"
+    },
+    {
+      "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel"
+    },
+    {
+      "title": "Under the Tuscan Sun"
+    },
+    {
+      "title": "A Summer In Europe"
+    },
+    {
+      "title": "The Great Railway Bazaar"
+    },
+    {
+      "title": "A Year in Provence (Provence #1)"
+    },
+    {
+      "title": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)"
+    },
+    {
+      "title": "Neither Here nor There: Travels in Europe"
+    },
+    {
+      "title": "1,000 Places to See Before You Die"
+    },
+    {
+      "title": "Sharp Objects"
+    },
+    {
+      "title": "In a Dark, Dark Wood"
+    },
+    {
+      "title": "The Past Never Ends"
+    },
+    {
+      "title": "A Murder in Time"
+    },
+    {
+      "title": "The Murder of Roger Ackroyd (Hercule Poirot #4)"
+    },
+    {
+      "title": "The Last Mile (Amos Decker #2)"
+    },
+    {
+      "title": "That Darkness (Gardiner and Renner #1)"
+    },
+    {
+      "title": "Tastes Like Fear (DI Marnie Rome #3)"
+    },
+    {
+      "title": "A Time of Torment (Charlie Parker #14)"
+    },
+    {
+      "title": "A Study in Scarlet (Sherlock Holmes #1)"
+    },
+    {
+      "title": "Poisonous (Max Revere Novels #3)"
+    },
+    {
+      "title": "Murder at the 42nd Street Library (Raymond Ambler #1)"
+    },
+    {
+      "title": "Most Wanted"
+    },
+    {
+      "title": "Hide Away (Eve Duncan #20)"
+    },
+    {
+      "title": "Boar Island (Anna Pigeon #19)"
+    },
+    {
+      "title": "The Widow"
+    },
+    {
+      "title": "Playing with Fire"
+    },
+    {
+      "title": "What Happened on Beale Street (Secrets of the South Mysteries #2)"
+    },
+    {
+      "title": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)"
+    },
+    {
+      "title": "Delivering the Truth (Quaker Midwife Mystery #1)"
+    },
+    {
+      "title": "The Mysterious Affair at Styles (Hercule Poirot #1)"
+    },
+    {
+      "title": "In the Woods (Dublin Murder Squad #1)"
+    },
+    {
+      "title": "The Silkworm (Cormoran Strike #2)"
+    },
+    {
+      "title": "The Exiled"
+    },
+    {
+      "title": "The Cuckoo's Calling (Cormoran Strike #1)"
+    },
+    {
+      "title": "Extreme Prey (Lucas Davenport #26)"
+    },
+    {
+      "title": "Career of Evil (Cormoran Strike #3)"
+    },
+    {
+      "title": "The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)"
+    },
+    {
+      "title": "The Girl You Lost"
+    },
+    {
+      "title": "The Girl In The Ice (DCI Erika Foster #1)"
+    },
+    {
+      "title": "Blood Defense (Samantha Brinkman #1)"
+    },
+    {
+      "title": "1st to Die (Women's Murder Club #1)"
+    },
+    {
+      "title": "Tipping the Velvet"
+    },
+    {
+      "title": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton"
+    },
+    {
+      "title": "A Flight of Arrows (The Pathfinders #2)"
+    },
+    {
+      "title": "The House by the Lake"
+    },
+    {
+      "title": "Mrs. Houdini"
+    },
+    {
+      "title": "The Marriage of Opposites"
+    },
+    {
+      "title": "Glory over Everything: Beyond The Kitchen House"
+    },
+    {
+      "title": "Love, Lies and Spies"
+    },
+    {
+      "title": "A Paris Apartment"
+    },
+    {
+      "title": "Lilac Girls"
+    },
+    {
+      "title": "The Constant Princess (The Tudor Court #1)"
+    },
+    {
+      "title": "The Invention of Wings"
+    },
+    {
+      "title": "World Without End (The Pillars of the Earth #2)"
+    },
+    {
+      "title": "The Passion of Dolssa"
+    },
+    {
+      "title": "Girl With a Pearl Earring"
+    },
+    {
+      "title": "Voyager (Outlander #3)"
+    },
+    {
+      "title": "The Red Tent"
+    },
+    {
+      "title": "The Last Painting of Sara de Vos"
+    },
+    {
+      "title": "The Guernsey Literary and Potato Peel Pie Society"
+    },
+    {
+      "title": "Girl in the Blue Coat"
+    },
+    {
+      "title": "Between Shades of Gray"
+    },
+    {
+      "title": "While You Were Mine"
+    },
+    {
+      "title": "The Secret Healer"
+    },
+    {
+      "title": "Starlark"
+    },
+    {
+      "title": "Lost Among the Living"
+    },
+    {
+      "title": "A Spy's Devotion (The Regency Spies of London #1)"
+    }
+  ],
+  "join_top_rated": [
+    {
+      "category_name": "Historical Fiction",
+      "title": "A Flight of Arrows (The Pathfinders #2)",
+      "rating": 5,
+      "price_inr": 5858.42
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "Mrs. Houdini",
+      "rating": 5,
+      "price_inr": 3191.38
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "The Passion of Dolssa",
+      "rating": 5,
+      "price_inr": 2987.76
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "Voyager (Outlander #3)",
+      "rating": 5,
+      "price_inr": 2222.89
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "The Red Tent",
+      "rating": 5,
+      "price_inr": 3762.13
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "Between Shades of Gray",
+      "rating": 5,
+      "price_inr": 2193.34
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "While You Were Mine",
+      "rating": 5,
+      "price_inr": 4359.26
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "A Spy's Devotion (The Regency Spies of London #1)",
+      "rating": 5,
+      "price_inr": 1790.33
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "The Marriage of Opposites",
+      "rating": 4,
+      "price_inr": 2962.44
+    },
+    {
+      "category_name": "Historical Fiction",
+      "title": "A Paris Apartment",
+      "rating": 4,
+      "price_inr": 4115.55
+    }
+  ]
+}
